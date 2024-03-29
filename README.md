@@ -1,6 +1,6 @@
 <header>
   
-# Web-based Kiosk 
+# Weather Forecast App using React Native
 
 </header>
 
