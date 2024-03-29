@@ -8,5 +8,10 @@ Weather Forecast by NimbleApp is your personal weather companion, providing you 
 
 Sample Phone Screenshots:
 
-<img src="./assets/Screenshot_1711678932.png" alt="Alt Text" width="400" height="300" />
+<div style="display: flex;">
+  <img src="./assets/Screenshot_1711678932.png" alt="Alt Text" width="315" height="500" />
+  <img src="./assets/Screenshot_1711678938.png" alt="Alt Text" width="315" height="500" />
+  <img src="./assets/Screenshot_1711678940.png" alt="Alt Text" width="315" height="500" />
+</div>
+
 
